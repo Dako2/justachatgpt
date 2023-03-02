@@ -14,7 +14,7 @@ from gtts import gTTS
 import langdetect
 from playsound import playsound
 
-API_KEY = "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" 
+API_KEY = "sk-.." 
 
 openai.api_key = API_KEY
 
